@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:000000&height=250&section=header&text=Anand%20Velpuri&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Machine%20Learning%20Engineer%20%7C%20Deep%20Learning%20Enthusiast&descAlignY=58&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:000000&height=250&section=header&text=Anand%20Velpuri&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=ML%20Engineer%20%7C%20Deep%20Learning%20%7C%20LLMs%20%7C%20AI%20Agents&descAlignY=58&descAlign=50" width="100%"/>
 </div>
 
 <div align="center">
@@ -12,18 +12,19 @@
 
 ### 👨‍💻 A Little About Me
 
-- 🔭 **Current Focus:** Building robust predictive models for **Crypto Market Forecasting**.
-- 🌱 **Learning Path:** Deep diving into **PyTorch** and advanced **Computer Vision** architectures.
+- 🔭 **Current Focus:** Building multi-agent systems and RAG pipelines powered by LLMs.
+- 🧠 **Foundation:** Deep Learning from first principles — studied under Karpathy's curriculum.
+- 🌱 **Exploring:** Advanced Computer Vision architectures and LLM fine-tuning.
 - 🤝 **Collaboration:** Looking to team up on non-trivial ML/DL projects (let's go beyond MNIST and Titanic!).
 - 💡 **Superpower:** Making models faster, smarter, and significantly less annoying to deploy.
-- 📫 **Contact:** Reach out to me at [velpurianand8005@gmail.com](mailto:velpurianand8005@gmail.com)
+- 📫 **Contact:** [velpurianand8005@gmail.com](mailto:velpurianand8005@gmail.com)
 - ⚡ **Fun Fact:** I once threw TTA, pseudo-labeling, and ConvNeXt at a dataset... just to classify sheep. 🐑
 
 <br>
 
 ### 🚀 Technical Arsenal
 
-**Machine Learning & Data Science**
+**Deep Learning & LLMs**
 <p>
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
   <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
@@ -32,17 +33,17 @@
   <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/MLflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue" />
+  <img src="https://img.shields.io/badge/HuggingFace-%23FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=black" />
 </p>
 
-**Web, Backend & Deployment**
+**Agents, RAG & Deployment**
 <p>
   <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" />
   <img src="https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white" />
+  <img src="https://img.shields.io/badge/Autogen-000000?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
 <br>
